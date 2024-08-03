@@ -1,0 +1,23 @@
+{
+    "total sales revenue": 11.399999999999999,
+    "manager name": "rayzell",
+    "customers": [{
+        "order history": [{
+            "drinks order": [
+                {
+                    "size": "medium",
+                    "price": 5.35,
+                    "name": "Cappuccino"
+                },
+                {
+                    "size": "large",
+                    "price": 6.05,
+                    "name": "Cappuccino"
+                }
+            ],
+            "total price of order": 11.399999999999999
+        }],
+        "total sales by customer": 11.399999999999999,
+        "customer name": "john"
+    }]
+}

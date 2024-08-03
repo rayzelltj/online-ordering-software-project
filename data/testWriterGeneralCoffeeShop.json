@@ -1,0 +1,51 @@
+{
+    "total sales revenue": 0,
+    "manager name": "rayzell",
+    "customers": [
+        {
+            "order history": [
+                {
+                    "drinks order": [{
+                        "size": "medium",
+                        "price": 5.35,
+                        "name": "Latte"
+                    }],
+                    "total price of order": 5.35
+                },
+                {
+                    "drinks order": [{
+                        "size": "large",
+                        "price": 6.05,
+                        "name": "Cappuccino"
+                    }],
+                    "total price of order": 6.05
+                }
+            ],
+            "total sales by customer": 11.399999999999999,
+            "customer name": "john"
+        },
+        {
+            "order history": [{
+                "drinks order": [
+                    {
+                        "size": "medium",
+                        "flavour": "vanilla",
+                        "price": 8.4,
+                        "name": "Belgian Mocha",
+                        "milk": "oat"
+                    },
+                    {
+                        "size": "medium",
+                        "price": 6.8,
+                        "name": "Matcha Latte",
+                        "milk": "soy",
+                        "additional requests": "extra hot"
+                    }
+                ],
+                "total price of order": 15.2
+            }],
+            "total sales by customer": 15.2,
+            "customer name": "bob"
+        }
+    ]
+}
